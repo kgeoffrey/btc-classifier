@@ -1,0 +1,17 @@
+{
+  "name": "btc-classifier",
+  "stack": "container",
+  "description": "Should you buy Bitcoin now?",
+  "keywords": [
+    "r",
+    "shiny"
+  ],
+  "repository": "https://github.com/kgeoffrey/btc-classifier",
+  "logo": "https://avatars1.githubusercontent.com/u/30161799?s=120&v=4",
+  "success_url": "/",
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  }
+}
